@@ -82,8 +82,12 @@ div.hero>h1{font-weight: 600;}
   font-size: 63px;
 } */
 
-.squares{
-  width: 332px;
+.mb_px{padding: 0 24px;
+margin-bottom: 48px;
+}
+.squares{  
+  border-radius: 10px;
+  width: 100%;
 }
 
 .wi_100{width: 100%;}
